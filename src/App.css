@@ -1,0 +1,30 @@
+.calculator {
+    width: 250px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #000;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+  }
+  
+  .display {
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.5em;
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
